@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "ksi",
+      "description": "among us",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "great stream",
+      "id": 4
+    },
+    {
+      "title": "JY Stream 2",
+      "description": "agency agency",
+      "id": 5
+    },
+    {
+      "title": "was PUT, now PATCH",
+      "description": "please appear with edit and delete button when signed in",
+      "userId": "101272230906564280397",
+      "id": 6
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "redirected from /streams/new to /",
+      "userId": "101272230906564280397",
+      "id": 8
+    },
+    {
+      "title": "component reuse",
+      "description": "StreamCreate and StreamEdit now made from StreamForm",
+      "userId": "101272230906564280397",
+      "id": 9
+    }
+  ]
+}
